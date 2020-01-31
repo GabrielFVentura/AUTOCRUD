@@ -1,0 +1,20 @@
+1º - criar a Entity em          C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Entities\Documentos\Documento.cs
+2º - Criar o Service em         C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Services\Documentos\DocumentoService.cs
+3º - Criar a IService em        C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Services\Abstractions\Documentos\IDocumentoService.cs
+4º - Criar o Repositorio em     C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Repositories.EntityFrameworkCore\Repositories\Documentos\DocumentoRepository.cs
+5º - Criar o IRepositorio em    C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Repositories.Abstractions\Documentos\IDocumentoRepository.cs
+6 - unit test                   C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\test\Softplan.Nugep.Services.UnitTest\Documentos\DocumentoPendenteLiberacaoServiceUnitTest.cs
+7 - fixture unit                C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\test\Softplan.Nugep.Services.UnitTest\Documentos\Fixtures\DocumentoFixture.cs
+8 - faker unit                  C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\test\Softplan.Nugep.Services.UnitTest\Documentos\Fakers\DocumentoFaker.cs
+9 - integration test            C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\test\Softplan.Nugep.Api.IntegrationTest\Graph\Documentos\DocumentoGraphQLIntegrationTests.cs
+10 -fixture integrat            C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\test\Softplan.Nugep.Api.IntegrationTest\Fixtures\DocumentoFixture.cs
+11 -faker integratio            C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\test\Softplan.Nugep.Api.IntegrationTest\Fixtures\DocumentoFaker.cs // mudar essa merda
+12 -Criar o Model em            C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Repositories.EntityFrameworkCore\Models\Documentos\DocumentoModel.cs
+13 -create validator            C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Services\Validators\TextoTemaCreateValidator.cs
+14 -update validator            C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Services\Validators\TextoTemaUpdateValidator.cs
+15 -delete validator            C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Services\Validators\TextoTemaDeleteValidator.cs
+16 -schema extensions           C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Api\Graph\Documentos\DocumentoSchemaExtension.cs
+17 -map                         C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Repositories.EntityFrameworkCore\Maps\Documentos\DocumentoMap.cs
+18 -profile               	C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Repositories.EntityFrameworkCore\Profiles\DocumentoProfile.cs
+19 -type                        	C:\Users\luciano.hakime\Documents\development\squadra\tj-nugep-api\src\Softplan.Nugep.Api\Graph\Documentos\Types\DocumentoType.cs
+20 -criarTextosResourceGraph.res
